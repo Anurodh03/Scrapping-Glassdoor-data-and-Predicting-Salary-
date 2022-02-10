@@ -11,7 +11,7 @@ Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glass
 Other Resources: Included in Report<br>
 
 ## Web Scrapping
-Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
+Extracted over 1000 jobs from glassdoor.com and obtained the following information from each job
 
 Job title <br>
 Salary Estimate <br>
