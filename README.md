@@ -52,3 +52,9 @@ Created various type of plots (barplot, histogram, countplot, Correlation  matri
 - Built four models (Linear, Ridge, Lasso, Decision Tree, and Random Forest) and analyzed their performance using Mean Absolute Error.
 
 
+## Model Performance
+
+Results Clearly Shows that Decision Tree is the Best performing model for this dataset followed by Gradient Boosting and Ridge Regression. While the Lasso Regression Mean Absolute Error is the highest among all. 
+
+![image](https://user-images.githubusercontent.com/32816737/153428944-a652c1bf-6157-4172-ba88-51e27adb5f7d.png)
+
