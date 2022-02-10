@@ -47,3 +47,8 @@ Created various type of plots (barplot, histogram, countplot, Correlation  matri
   ![image](https://user-images.githubusercontent.com/32816737/153202384-edc9933f-24bc-4ac8-bd85-c6e7b895ab16.png)
 
 ## Model Building
+- Encoding categorical variables using One Hot Encoding. 
+- Splitting the data into train set (80%) and test set (20%)
+- Built four models (Linear, Ridge, Lasso, Decision Tree, and Random Forest) and analyzed their performance using Mean Absolute Error.
+
+
